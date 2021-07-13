@@ -1,0 +1,20 @@
+co/com/falabella/tasks/AbrirElNavegador.java
+ co.com.falabella.tasks.AbrirElNavegador
+co/com/falabella/userinterfaces/FalabellaPaymentPage.java
+ co.com.falabella.userinterfaces.FalabellaPaymentPage
+co/com/falabella/tasks/AgregarDireccion.java
+ co.com.falabella.tasks.AgregarDireccion
+co/com/falabella/tasks/BuscarProducto.java
+ co.com.falabella.tasks.BuscarProducto
+co/com/falabella/userinterfaces/FalabellaDispatchPage.java
+ co.com.falabella.userinterfaces.FalabellaDispatchPage
+co/com/falabella/questions/PaginaPago.java
+ co.com.falabella.questions.PaginaPago
+co/com/falabella/userinterfaces/FalabellaHomePage.java
+ co.com.falabella.userinterfaces.FalabellaHomePage
+co/com/falabella/userinterfaces/FalabellaShoppingBagPage.java
+ co.com.falabella.userinterfaces.FalabellaShoppingBagPage
+co/com/falabella/tasks/AgregaElProducto.java
+ co.com.falabella.tasks.AgregaElProducto
+co/com/falabella/userinterfaces/FalabellaSearchPage.java
+ co.com.falabella.userinterfaces.FalabellaSearchPage
